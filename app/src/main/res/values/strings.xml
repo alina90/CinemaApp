@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CinemaApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">The Woman in Black 2: Angel of Death (2015)</string>
+    <string name="title_activity_fourth">The Theory of Everything (2014)</string>
+    <string name="title_activity_fifth">White God (2014)</string>
+    <string name="title_activity_sixth">Yellowbird (2014)</string>
+
+</resources>
